@@ -12,6 +12,10 @@ Természetesen a repository önmagában is használható. A notebook-ok futtatá
 
 A qiskit-tel foglalkozó óra: [Qiskit előadás](kvantumszamitogepek_programozasa/qiskit_es_ibm/qiskit_es_ibm.ipynb)
 
+A cirq bevezető óra: [Cirq bevezetés](kvantumszamitogepek_programozasa/Cirq_intro/cirq_intro_for_students.ipynb)
+
+A cirq és QVM óra: [Cirq és QVM](kvantumszamitogepek_programozasa/cirq_qvm/qvm_lab_full_for_students.ipynb)
+
 ## Kvantuminformatika és -kommunikáció:
 
 A kvantumalgoritmusok tervezése gyakorlat: [Gyakorlat anyaga](kvantuminformatika_es_kommunikacio/qiskit_gyakorlat/kvantuminformatikai_algoritmusok_tervezese.ipynb)
